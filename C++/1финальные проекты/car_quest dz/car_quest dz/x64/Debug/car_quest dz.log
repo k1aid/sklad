@@ -1,0 +1,4 @@
+﻿  car_quest dz.cpp
+C:\Users\чупеп\Desktop\car_quest dz\car_quest dz\car_quest dz.cpp(80,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\чупеп\Desktop\car_quest dz\car_quest dz\car_quest dz.cpp(84,20): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  car_quest dz.vcxproj -> C:\Users\чупеп\Desktop\car_quest dz\x64\Debug\car_quest dz.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0447\u0443\u043F\u0435\u043F\\Desktop\\20.05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D03C1AA-7B8C-4AB0-BF8F-9ABCE8F95239}|20.05\\20.05.vcxproj|C:\\Users\\\u0447\u0443\u043F\u0435\u043F\\Desktop\\20.05\\20.05\\20.05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D03C1AA-7B8C-4AB0-BF8F-9ABCE8F95239}|20.05\\20.05.vcxproj|solutionrelative:20.05\\20.05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20.05.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0435\u043F\\Desktop\\20.05\\20.05\\20.05.cpp",
+              "RelativeDocumentMoniker": "20.05\\20.05.cpp",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0435\u043F\\Desktop\\20.05\\20.05\\20.05.cpp",
+              "RelativeToolTip": "20.05\\20.05.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T15:43:06.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

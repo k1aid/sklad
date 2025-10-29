@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0447\u0443\u043F\u0435\u043F\\Desktop\\car_quest dz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D415B34-686E-4CDB-A521-61867640B295}|car_quest dz\\car_quest dz.vcxproj|C:\\Users\\\u0447\u0443\u043F\u0435\u043F\\Desktop\\car_quest dz\\car_quest dz\\car_quest dz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0D415B34-686E-4CDB-A521-61867640B295}|car_quest dz\\car_quest dz.vcxproj|solutionrelative:car_quest dz\\car_quest dz.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "car_quest dz.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0447\u0443\u043F\u0435\u043F\\Desktop\\car_quest dz\\car_quest dz\\car_quest dz.cpp",
+              "RelativeDocumentMoniker": "car_quest dz\\car_quest dz.cpp",
+              "ToolTip": "C:\\Users\\\u0447\u0443\u043F\u0435\u043F\\Desktop\\car_quest dz\\car_quest dz\\car_quest dz.cpp*",
+              "RelativeToolTip": "car_quest dz\\car_quest dz.cpp*",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwCAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-04T20:00:23.92Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
