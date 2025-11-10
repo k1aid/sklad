@@ -1,0 +1,3 @@
+﻿  Указатели this.cpp
+Указатели this.obj : error LNK2001: неразрешенный внешний символ "public: static int bunk::budget" (?budget@bunk@@2HA).
+C:\Users\sklad\Новые проекты на C++\Указатели this\x64\Debug\Указатели this.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
